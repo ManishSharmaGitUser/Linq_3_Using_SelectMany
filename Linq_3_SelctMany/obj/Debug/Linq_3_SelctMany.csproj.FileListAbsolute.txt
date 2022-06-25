@@ -1,0 +1,8 @@
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\bin\Debug\Linq_3_SelctMany.exe.config
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\bin\Debug\Linq_3_SelctMany.exe
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\bin\Debug\Linq_3_SelctMany.pdb
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\obj\Debug\Linq_3_SelctMany.csproj.AssemblyReference.cache
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\obj\Debug\Linq_3_SelctMany.csproj.SuggestedBindingRedirects.cache
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\obj\Debug\Linq_3_SelctMany.csproj.CoreCompileInputs.cache
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\obj\Debug\Linq_3_SelctMany.exe
+F:\Linq tutorial for beginners WebGentle\Demos\Linq_3_SelctMany\Linq_3_SelctMany\obj\Debug\Linq_3_SelctMany.pdb
